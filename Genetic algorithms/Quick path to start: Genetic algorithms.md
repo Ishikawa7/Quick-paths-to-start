@@ -1,4 +1,5 @@
-![Image](../logo_ga.png?raw=true)
+![Image](logo_ga.png?raw=true)
+
 ## Quick path to start: Genetic algorithms
 
 ### Step 1: gain insight into the subject
