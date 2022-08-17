@@ -10,7 +10,7 @@ Follow the "10 minutes to pandas" guide, from pandas documentation: https://pand
 
 Video here: https://www.youtube.com/watch?v=vmEHCJofslg&ab_channel=KeithGalli
 
-### Step 2: Validate your understanding
+### Step 3: Validate your understanding
 
 Try to read pandas code, if you do not recognize the functionality used look for it in the documentation (you can also simply google it)
 
