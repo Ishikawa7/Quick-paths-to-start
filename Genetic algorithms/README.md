@@ -24,5 +24,5 @@ Be sure to understand this example on a linear model optimization, and try to re
 ### Step 4: test yourself
 
 Try to solve a basic optimization problem with what you have learned, here is the problem.
-A van in a shop must be filled to transport household appliances, its load must be optimized ** __by maximizing the value__ ** of what is transported for a given volume. You have a file with occupied space, price and quantity of certain products (file at https://github.com/Ishikawa7/Quick-paths-to-start/tree/main/Genetic%20algorithms/Step%204). Test for variable free space values, for example between 1 and 5.
+A van in a shop must be filled to transport household appliances, its load must be optimized _**by maximizing the value**_ of what is transported for a given volume. You have a file with occupied space, price and quantity of certain products (file at https://github.com/Ishikawa7/Quick-paths-to-start/tree/main/Genetic%20algorithms/Step%204). Test for variable free space values, for example between 1 and 5.
 #####  Feel free to skip to this step and try the test
