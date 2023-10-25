@@ -16,10 +16,10 @@ Focus on the general concepts, usually present in the first paragraph.
 
 Start with a python package! The processes and the writing of the code will be more understandable and clear.
 
-Read PyGAD package documentation: https://pygad.readthedocs.io/en/latest/README_pygad_ReadTheDocs.html#pygad-ga-class
+Read PyGAD package documentation: https://pygad.readthedocs.io/en/latest/ | https://pygad.readthedocs.io/en/latest/pygad.html#pygad-ga-class
 No need to know all functionalities and read all, just the minimum necessary for following the examples provided.
 
-Be sure to understand this example on a linear model optimization, and try to replicate it with different data: https://pygad.readthedocs.io/en/latest/README_pygad_ReadTheDocs.html#linear-model-optimization
+Be sure to understand this example on a linear model optimization, and try to replicate it with different data: https://pygad.readthedocs.io/en/latest/pygad.html#linear-model-optimization-single-objective
 
 ### Step 4: test yourself
 
